@@ -45,7 +45,7 @@ Install all required packages :
 
    2. **Run the code from cmd:**
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ## ➲Contact    
