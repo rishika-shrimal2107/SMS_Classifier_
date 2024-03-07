@@ -15,9 +15,8 @@ The SMS Spam Classifier project utilizes a Multinomial Naive Bayes classifier tr
 ## ➲How to Use
 
 To use the SMS Spam Classifier:
-1. Access the web application deployed on Heroku: [Link to Web App](#)
-2. Enter a text message into the input field.
-3. Click the "Predict" button to receive a prediction on whether the message is spam or not.
+1. Enter a text message into the input field.
+2. Click the "Predict" button to receive a prediction on whether the message is spam or not.
 
 ## ➲Prerqusites
 
@@ -29,6 +28,7 @@ This is list of required packages and modules for the project to be installed :
 - NLTK
 - Scikit-learn
 - pickle
+- Streamlit
 
 Install all required packages :
 ```bash
@@ -40,12 +40,12 @@ Install all required packages :
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rishika-shrimal2107/SMS_Classifier.git
+   git clone https://github.com/rishika-shrimal2107/SMS_Classifier_.git
    ```
 
    2. **Run the code from cmd:**
    ```bash
-   python sms_classifier.py
+   python app.py
    ```
 
 ## ➲Contact    
